@@ -1,1 +1,1 @@
-export function fetchMovie() {}
+export function fetchMovies() {}
