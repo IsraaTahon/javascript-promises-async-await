@@ -2,6 +2,10 @@
   "workbench.colorCustomizations": {
     "activityBar.background": "#2A300C",
     "titleBar.activeBackground": "#3B4411",
-    "titleBar.activeForeground": "#F9FBEF"
+    "titleBar.activeForeground": "#F9FBEF",
+    "jshint.options": {
+      "esversion": 6
+    }
+
   }
 }
